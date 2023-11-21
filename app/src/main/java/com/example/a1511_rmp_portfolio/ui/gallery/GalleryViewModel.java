@@ -1,8 +1,12 @@
 package com.example.a1511_rmp_portfolio.ui.gallery;
 
+
+
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
+
+import com.example.a1511_rmp_portfolio.R;
 
 public class GalleryViewModel extends ViewModel {
 
@@ -10,7 +14,7 @@ public class GalleryViewModel extends ViewModel {
 
     public GalleryViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is gallery fragment");
+
     }
 
     public LiveData<String> getText() {

@@ -9,6 +9,10 @@
     <string name="action_settings">Settings</string>
 
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
+    <string name="menu_gallery">Хобби</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="text_home">Меня зовут Орлов Алексей. Я учусь в ЗАБГУ на специальности прикладная информатика на 3 курсе. Увлекаюсь квадрокоптерами. Летаю и снимаю видео.</string>
+    <string name="i_am">Обо мне</string>
+    <string name="contact">Контакты</string>
+    <string name="text_hobby">Моё хобби это полётты и видео смёмка на квадрокопторе. У меня Квадрокоптер DJI Air 2s. Кадры можно увидеть ниже </string>
 </resources>
